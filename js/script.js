@@ -83,7 +83,7 @@ const produtos = [
   { id: 1, nome: 'Café expresso', categoria: 'bebida', preco: 6.5,
     emoji: '<img src="https://github.com/user-attachments/assets/b12bfe54-85ec-4a5c-95c0-2de7577bd189" alt="Designer" width="500">', descricao: 'Curto, encorpado e cheiroso.'},
   { id: 2, nome: 'Cappuccino', categoria: 'bebida', preco: 9.90,
-    emoji: '<img src="https://github.com/user-attachments/assets/42b65d5f-6382-42ef-8d6e-cfc849c69bd6" alt="Designer" width="500">', descricao: 'Café, leite vaporizado e canela.'},
+    emoji: '<img src="https://github.com/user-attachments/assets/42b65d5f-6382-42ef-8d6e-cfc849c69bd6" alt="Designer" width="500">', descricao: 'Quentinho com toque de canela.'},
   { id: 3, nome: 'Chocolate quente', categoria: 'bebida', preco: 11,
     emoji: '<img src="https://github.com/user-attachments/assets/26b17ab6-904f-4a9f-90ce-93bec3c25e0e" alt="Designer" width="500">', descricao: 'Cremoso, perfeito para dias frios.'},
   { id: 4, nome: 'Suco de laranja', categoria: 'bebida', preco: 6.5,
