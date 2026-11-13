@@ -89,7 +89,7 @@ const produtos = [
   { id: 4, nome: 'Suco de laranja', categoria: 'bebida', preco: 8,
     emoji: '<img src="https://github.com/user-attachments/assets/4c39ca22-3b53-4363-8071-224a8fe123b5" alt="Designer" width="500">', descricao: 'Natural, geladinho e doce.'},
   { id: 5, nome: 'Bolo de morango', categoria: 'doce', preco: 8.5,
-    emoji: '<img src="https://github.com/user-attachments/assets/a572c0f7-975c-46f5-b4c0-6c28b0edbb29" alt="Designer" width="500">', descricao: 'Cheio de morango e raspas de chocolate.'},
+    emoji: '<img src="https://github.com/user-attachments/assets/30426125-59c5-4b1b-99aa-f451578ab1af" alt="Designer" width="500">', descricao: 'Cheio de morango e raspas de chocolate.'},
   { id: 6, nome: 'Cookie', categoria: 'doce', preco: 6,
     emoji: '<img src="https://github.com/user-attachments/assets/30426125-59c5-4b1b-99aa-f451578ab1af" alt="Designer" width="500">', descricao: 'Gotas de chocolate e casquinha crocante.' },
   { id: 7, nome: 'Pão de queijo', categoria: 'salgado', preco: 5,
