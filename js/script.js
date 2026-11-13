@@ -91,7 +91,7 @@ const produtos = [
   { id: 5, nome: 'Bolo de morango', categoria: 'doce', preco: 8.5,
     emoji: '<img src="https://github.com/user-attachments/assets/a572c0f7-975c-46f5-b4c0-6c28b0edbb29" alt="Designer" width="500">', descricao: 'Cheio de morango e raspas de chocolate.'},
   { id: 6, nome: 'Cookie', categoria: 'doce', preco: 6,
-    emoji: '<img src="https://github.com/user-attachments/assets/6e5ff1b1-48a5-4033-bb74-30b9f9bbe7b0" alt="Designer" width="500">', descricao: 'Gotas de chocolate e casquinha crocante.' },
+    emoji: '<img src="https://github.com/user-attachments/assets/30426125-59c5-4b1b-99aa-f451578ab1af" " alt="Designer" width="500">', descricao: 'Gotas de chocolate e casquinha crocante.' },
   { id: 7, nome: 'Pão de queijo', categoria: 'salgado', preco: 5,
     emoji: '<img src="https://github.com/user-attachments/assets/755f07c9-9073-4050-9d62-17363d75f946" alt="Designer" width="500">', descricao: 'Quentinho, saido do forno.'},
   { id: 7, nome: 'Coxinha', categoria: 'salgado', preco: 6,
